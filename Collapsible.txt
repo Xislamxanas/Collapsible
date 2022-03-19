@@ -1,0 +1,15 @@
+<button data-bs-toggle="collapse" data-bs-target="#demo">Collapsible</button>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
+
+<a href="#demo" data-bs-toggle="collapse">Collapsible</a>
+
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
+
+<div id="demo" class="collapse show">
+Lorem ipsum dolor text....
+</div>
